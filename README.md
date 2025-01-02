@@ -4,6 +4,9 @@
 **Certification**: [Verified Certificate by Credly](https://www.credly.com/badges/31f4de42-0dce-4df0-aaf5-b62aaff01ebe/public_url)  
 **Name**: Mohammad Hussain Adeli  
 
+![image](https://github.com/user-attachments/assets/a643f9e4-df63-4b89-9e32-0b191d77ae62)
+
+
 ## Overview
 
 I successfully completed the **Google Advanced Data Analytics Certificate** on Coursera. This program provided in-depth knowledge of data analytics, machine learning, statistics, Python programming, and real-world problem-solving skills. Below is a summary of the courses and the corresponding projects I worked on.
